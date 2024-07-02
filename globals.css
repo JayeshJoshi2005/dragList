@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.input, .select, .button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.listContainer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+}
+.listItem {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dragging {
+  background-color: #e0e0e0;
+}
+.deleteButton {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+} */
